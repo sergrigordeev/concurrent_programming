@@ -17,6 +17,7 @@
     <module>miniproject_0</module>
     <module>miniproject_1</module>
     <module>miniproject_2</module>
+    <module>miniproject_3</module>
   </modules>
 
 
@@ -46,7 +47,7 @@
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
-        <version>3.8.2</version>
+        <version>4.13.2</version>
         <scope>test</scope>
       </dependency>
     </dependencies>
